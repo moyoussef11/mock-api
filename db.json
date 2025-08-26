@@ -80,7 +80,7 @@
     {
       "id": 8,
       "lead": { "name": "Selin Kaya", "email": "selin@startup.io" },
-      "tags": ["VIP","+4"],
+      "tags": ["GITEX DUBAI","+4"],
       "connected_with": {
         "name": "Selin Kaya",
         "email": "selin@alginul.com",
@@ -91,7 +91,7 @@
     {
       "id": 9,
       "lead": { "name": "Mert Yildiz", "email": "mert@company.org" },
-      "tags": ["Investor","+4"],
+      "tags": ["Team","+4"],
       "connected_with": {
         "name": "Mert Yildiz",
         "email": "mert@alginul.com",
@@ -102,7 +102,7 @@
     {
       "id": 10,
       "lead": { "name": "Ayse Demir", "email": "ayse@demo.com" },
-      "tags": ["Speaker","+4"],
+      "tags": ["Summit","+4"],
       "connected_with": {
         "name": "Ayse Demir",
         "email": "ayse@alginul.com",
