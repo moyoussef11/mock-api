@@ -25,7 +25,7 @@
     {
       "id": 3,
       "lead": { "name": "Demir Vural", "email": "demir@test.com" },
-      "tags": ["GITEX DUBAI"],
+      "tags": ["GITEX DUBAI","+4"],
       "connected_with": {
         "name": "Demir Vural",
         "email": "demir@alginul.com",
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "lead": { "name": "Hande Yilmaz", "email": "hande@example.com" },
-      "tags": ["Summit"],
+      "tags": ["Summit","+4"],
       "connected_with": {
         "name": "Hande Yilmaz",
         "email": "hande@alginul.com",
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "lead": { "name": "Demir Vural", "email": "demir@test.com" },
-      "tags": ["GITEX DUBAI"],
+      "tags": ["GITEX DUBAI","+4"],
       "connected_with": {
         "name": "Demir Vural",
         "email": "demir@alginul.com",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "lead": { "name": "Selin Kaya", "email": "selin@startup.io" },
-      "tags": ["VIP"],
+      "tags": ["VIP","+4"],
       "connected_with": {
         "name": "Selin Kaya",
         "email": "selin@alginul.com",
@@ -91,7 +91,7 @@
     {
       "id": 9,
       "lead": { "name": "Mert Yildiz", "email": "mert@company.org" },
-      "tags": ["Investor"],
+      "tags": ["Investor","+4"],
       "connected_with": {
         "name": "Mert Yildiz",
         "email": "mert@alginul.com",
@@ -102,68 +102,14 @@
     {
       "id": 10,
       "lead": { "name": "Ayse Demir", "email": "ayse@demo.com" },
-      "tags": ["Speaker"],
+      "tags": ["Speaker","+4"],
       "connected_with": {
         "name": "Ayse Demir",
         "email": "ayse@alginul.com",
         "avatar": "https://i.pravatar.cc/150?img=10"
       },
       "date": { "day": "Wednesday", "full": "Aug 05 - 2025" }
-    },
-    {
-      "id": 11,
-      "lead": { "name": "Can Aydin", "email": "can@futurelabs.com" },
-      "tags": ["Team"],
-      "connected_with": {
-        "name": "Can Aydin",
-        "email": "can@alginul.com",
-        "avatar": "https://i.pravatar.cc/150?img=11"
-      },
-      "date": { "day": "Thursday", "full": "Aug 06 - 2025" }
-    },
-    {
-      "id": 12,
-      "lead": { "name": "Zeynep Arslan", "email": "zeynep@creative.net" },
-      "tags": ["Exhibitor"],
-      "connected_with": {
-        "name": "Zeynep Arslan",
-        "email": "zeynep@alginul.com",
-        "avatar": "https://i.pravatar.cc/150?img=12"
-      },
-      "date": { "day": "Thursday", "full": "Aug 06 - 2025" }
-    },
-    {
-      "id": 13,
-      "lead": { "name": "Burak Eren", "email": "burak@events.com" },
-      "tags": ["Summit", "VIP"],
-      "connected_with": {
-        "name": "Burak Eren",
-        "email": "burak@alginul.com",
-        "avatar": "https://i.pravatar.cc/150?img=13"
-      },
-      "date": { "day": "Thursday", "full": "Aug 06 - 2025" }
-    },
-    {
-      "id": 14,
-      "lead": { "name": "Leyla Korkmaz", "email": "leyla@mediahub.org" },
-      "tags": ["Press"],
-      "connected_with": {
-        "name": "Leyla Korkmaz",
-        "email": "leyla@alginul.com",
-        "avatar": "https://i.pravatar.cc/150?img=14"
-      },
-      "date": { "day": "Friday", "full": "Aug 07 - 2025" }
-    },
-    {
-      "id": 15,
-      "lead": { "name": "Kerem Aksoy", "email": "kerem@devs.io" },
-      "tags": ["Developer", "Hackathon"],
-      "connected_with": {
-        "name": "Kerem Aksoy",
-        "email": "kerem@alginul.com",
-        "avatar": "https://i.pravatar.cc/150?img=15"
-      },
-      "date": { "day": "Friday", "full": "Aug 07 - 2025" }
     }
   ]
 }
+
