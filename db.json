@@ -1,0 +1,114 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "lead": { "name": "Efehan Coskun", "email": "efehan@acme.com" },
+      "tags": ["Team", "+4"],
+      "connected_with": {
+        "name": "Efehan Coskun",
+        "email": "efehan@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=1"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 2,
+      "lead": { "name": "Hande Yilmaz", "email": "hande@example.com" },
+      "tags": [],
+      "connected_with": {
+        "name": "Hande Yilmaz",
+        "email": "hande@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=2"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 3,
+      "lead": { "name": "Demir Vural", "email": "demir@test.com" },
+      "tags": ["GITEX DUBAI","+4"],
+      "connected_with": {
+        "name": "Demir Vural",
+        "email": "demir@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=3"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 4,
+      "lead": { "name": "Efehan Coskun", "email": "efehan@acme.com" },
+      "tags": ["Team", "+4"],
+      "connected_with": {
+        "name": "Efehan Coskun",
+        "email": "efehan@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=4"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 5,
+      "lead": { "name": "Hande Yilmaz", "email": "hande@example.com" },
+      "tags": ["Summit","+4"],
+      "connected_with": {
+        "name": "Hande Yilmaz",
+        "email": "hande@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=5"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 6,
+      "lead": { "name": "Demir Vural", "email": "demir@test.com" },
+      "tags": ["GITEX DUBAI","+4"],
+      "connected_with": {
+        "name": "Demir Vural",
+        "email": "demir@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=6"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 7,
+      "lead": { "name": "Efehan Coskun", "email": "efehan@acme.com" },
+      "tags": ["Team", "+4"],
+      "connected_with": {
+        "name": "Efehan Coskun",
+        "email": "efehan@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=7"
+      },
+      "date": { "day": "Tuesday", "full": "Aug 04 - 2025" }
+    },
+    {
+      "id": 8,
+      "lead": { "name": "Selin Kaya", "email": "selin@startup.io" },
+      "tags": ["VIP","+4"],
+      "connected_with": {
+        "name": "Selin Kaya",
+        "email": "selin@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=8"
+      },
+      "date": { "day": "Wednesday", "full": "Aug 05 - 2025" }
+    },
+    {
+      "id": 9,
+      "lead": { "name": "Mert Yildiz", "email": "mert@company.org" },
+      "tags": ["Investor","+4"],
+      "connected_with": {
+        "name": "Mert Yildiz",
+        "email": "mert@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=9"
+      },
+      "date": { "day": "Wednesday", "full": "Aug 05 - 2025" }
+    },
+    {
+      "id": 10,
+      "lead": { "name": "Ayse Demir", "email": "ayse@demo.com" },
+      "tags": ["Speaker","+4"],
+      "connected_with": {
+        "name": "Ayse Demir",
+        "email": "ayse@alginul.com",
+        "avatar": "https://i.pravatar.cc/150?img=10"
+      },
+      "date": { "day": "Wednesday", "full": "Aug 05 - 2025" }
+    }
+  ]
+}
